@@ -12,8 +12,8 @@ class SampleClass {
   }
 }
 
-function main() {
-  const sample = new SampleClass();
+function main () {
+  var sample = new SampleClass();
   sample.method();
 }
 
